@@ -3,6 +3,8 @@
 This project is a **Netflix clone** built using **Vue.js** and **Tailwind CSS**. The tutorial guides you through setting up a Vue.js project, installing dependencies, and designing the basic layout of a Netflix-like UI. The project also demonstrates how to import assets like images and videos, and how to use a JSON file to display movie data. Key components such as a navigation bar, carousel, and video player are built and styled with Tailwind CSS.
 
 ![Netflix Clone Preview](https://github.com/madhviasthana/NetflixClone/blob/main/Image%2019.10.24%20at%2019.19.jpeg)
+![Netflix Clone Preview](https://github.com/madhviasthana/NetflixClone/blob/main/Image%2019.10.24%20at%2019.23.jpeg)
+
 
 ## Table of Contents
 - [Features](#features)
