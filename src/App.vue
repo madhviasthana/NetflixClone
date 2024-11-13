@@ -1,7 +1,7 @@
 <script setup>
 import { onMounted, ref,onUnmounted } from 'vue';
 
-import movies from '/Users/madhviasthana/Documents/Netflix_Clone/my-vue-app/src/assets/movies.json'
+import movies from '@/assets/movies.json'
 
 import Magnify from 'vue-material-design-icons/Magnify.vue';
 import HomeOutline from 'vue-material-design-icons/HomeOutline.vue';
